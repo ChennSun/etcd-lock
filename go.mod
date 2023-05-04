@@ -1,4 +1,4 @@
-module test
+module etcd-lock
 
 go 1.16
 
